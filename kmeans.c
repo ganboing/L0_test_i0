@@ -7,6 +7,8 @@
 // k: K
 // max number of iterations: MAX_ITER 
 
+//test git
+
 #ifdef FOR_PC_IDE
 
 #define commit return
